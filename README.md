@@ -1,0 +1,2 @@
+# Guru-solutions
+static website
